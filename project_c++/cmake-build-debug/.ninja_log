@@ -1,0 +1,5 @@
+# ninja log v6
+19	586	7684200410963827	CMakeFiles/project_c__.dir/nlogn.cpp.obj	781b8a0ab153f9f3
+36	1319	7684295654929799	CMakeFiles/project_c__.dir/pow.cpp.obj	837a88837c26089b
+1646	1900	7684394095655079	project_c__.exe	2889d859c281b3d8
+54	1645	7684394079730474	CMakeFiles/project_c__.dir/factorial_recursion.cpp.obj	f0c896cac15a96b4
